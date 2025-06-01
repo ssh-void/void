@@ -13,6 +13,7 @@ tesseract-ocr tesseract-ocr-ara tesseract-ocr-fra tesseract-ocr-eng
 fuse-exfat ntfs-3g
 maim xclip
 wmname
+lm_sensors
 neovim
 htop neofetch
 NetworkManager aria2 curl tor torsocks
