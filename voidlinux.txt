@@ -9,7 +9,7 @@ xbanish numlockx sxhkd
 zathura zathura-pdf-mupdf
 ufw
 rsync
-esseract-ocr tesseract-ocr-ara tesseract-ocr-fra tesseract-ocr-eng
+tesseract-ocr tesseract-ocr-ara tesseract-ocr-fra tesseract-ocr-eng
 fuse-exfat ntfs-3g
 maim xclip
 wmname
