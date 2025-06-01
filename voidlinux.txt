@@ -15,7 +15,7 @@ maim xclip
 wmname
 neovim
 htop neofetch
-NetworkManager aria2 curl tor torsocksw
+NetworkManager aria2 curl tor torsocks
 dwm st slock
 ffmpeg
 fuse-exfat ntfs-3g
