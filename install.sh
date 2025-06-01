@@ -32,8 +32,11 @@ cd grc/
 sudo ./install.sh
 sudo cp /etc/profile.d/grc.sh /etc/
 
-echo "Reconfigure all packages xbps & Update font cache... ========================="
+echo "Reconfigure all packages xbps & Update font firefox cache... ========================="
 
+# firefox 
+sudo ln -s /usr/share/fontconfig/conf.avail/70-no-bitmaps.conf /etc/fonts/conf.d/
+sudo xbps-reconfigure -f fontconfig
 # Reconfigure all packages
 sudo xbps-reconfigure -fa
 
@@ -60,7 +63,7 @@ sudo ln -s /etc/sv/zramen/ /var/service/
 #sudo ln -s /etc/sv/virtlogd/ /var/service/
 #sudo ln -s /etc/sv/libvirtd/ /var/service/
 #sudo ln -s /etc/sv/bluetoothd/ /var/service/
-#sudo ln -s /etc/sv/NetworkManager/ /var/service/
+sudo ln -s /etc/sv/NetworkManager/ /var/service/
 clear
 
 # zram
