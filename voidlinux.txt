@@ -1,5 +1,5 @@
-xorg-server xinit xorg-input-drivers xrandr xrdb xset xdo xdotool
-firefox font-inconsolata-otf
+xorg-server xinit xorg-input-drivers xorg-video-drivers xrandr xrdb xset xdo xdotool
+firefox terminus-font font-inconsolata-otf
 neovim
 brightnessctl
 tealdeer
@@ -20,11 +20,11 @@ NetworkManager aria2 curl tor torsocks
 dwm st slock
 ffmpeg
 fuse-exfat ntfs-3g
-maim
+maim flameshot
 mpv vlc
 fzy
 opendoas
-sakura terminus-font
+sakura
 vscode docker tmux
 xclip
 zramen
