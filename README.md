@@ -1,1 +1,2 @@
 # void
+voidlinux myinstall
