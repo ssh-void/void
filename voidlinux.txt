@@ -1,0 +1,31 @@
+xorg-server xinit xorg-input-drivers xrandr xrdb xset xdo xdotool
+firefox font-inconsolata-otf
+neovim
+brightnessctl
+tealdeer
+crond
+Thunar
+xbanish numlockx sxhkd
+zathura zathura-pdf-mupdf
+ufw
+rsync
+esseract-ocr tesseract-ocr-ara tesseract-ocr-fra tesseract-ocr-eng
+fuse-exfat ntfs-3g
+maim xclip
+wmname
+neovim
+htop neofetch
+NetworkManager aria2 curl tor torsocksw
+dwm st slock
+ffmpeg
+fuse-exfat ntfs-3g
+maim
+mpv vlc
+fzy
+opendoas
+sakura terminus-font
+vscode docker tmux
+xclip
+zramen
+zsh zsh-completions
+bash bash-completion
