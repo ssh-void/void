@@ -1,32 +1,31 @@
-xorg-server xinit xorg-input-drivers xorg-video-drivers xrandr xrdb xset xdo xdotool xauth
-firefox terminus-font font-inconsolata-otf
+dbus
+xorg-server xinit xorg-input-drivers xrandr xrdb xset xdo xdotool
+firefox font-inconsolata-otf terminus-font
 neovim
 brightnessctl
 tealdeer
-cronie
+crond
 Thunar
 xbanish numlockx sxhkd
 zathura zathura-pdf-mupdf
 ufw
 rsync
-tesseract-ocr tesseract-ocr-ara tesseract-ocr-fra tesseract-ocr-eng
+esseract-ocr tesseract-ocr-ara tesseract-ocr-fra tesseract-ocr-eng
 fuse-exfat ntfs-3g
 maim xclip
 wmname
-lm_sensors
 neovim
 htop neofetch
-NetworkManager aria2 curl tor torsocks
+NetworkManager aria2 curl tor torsocksw
 dwm st slock
-ffmpeg
+ffmpeg yt-dlp
 fuse-exfat ntfs-3g
-maim flameshot
+maim
 mpv vlc
 fzy
 opendoas
 sakura
 vscode docker tmux
-xclip
 zramen
 zsh zsh-completions
 bash bash-completion

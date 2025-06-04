@@ -1,0 +1,24 @@
+dbus
+xorg-server xinit xorg-input-drivers xrandr xrdb xset xauth
+firefox font-inconsolata-otf terminus-font
+neovim
+brightnessctl
+tealdeer
+crond
+Thunar
+xbanish numlockx sxhkd
+zathura zathura-pdf-mupdf
+ufw
+rsync
+maim xclip
+wmname
+htop neofetch
+aria2 curl tor torsocksw
+dwm st slock
+maim
+fzy
+opendoas
+sakura
+tmux
+zsh zsh-completions
+bash bash-completion
